@@ -4,16 +4,17 @@
   box-sizing: border-box;
 }
 /* This is Gradient + Background */
-body {
-  font-family: Arial, sans-serif;
-  background:
-    linear-gradient(to right, rgba(30,144,255,0.7), rgba(245,175,25,0.7)),
-    url('charusat\ logo.png') center center / cover no-repeat fixed;
-}
+/* body {
+  } */
 
 body {
   font-family: Arial, sans-serif;
   color: #eee;
+   font-family: Arial, sans-serif;
+  background:
+    linear-gradient(to right, rgba(30,144,255,0.7), rgba(245,175,25,0.7)),
+    url('charusat\ logo.png') center center / cover no-repeat fixed;
+  color: white;
 }
 
 header nav ul {
