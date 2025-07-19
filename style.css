@@ -8,9 +8,9 @@ body {
   font-family: Arial, sans-serif;
   background:
     linear-gradient(to right, rgba(30,144,255,0.7), rgba(245,175,25,0.7)),
-    url('charusat_logo.png') center center / cover no-repeat fixed;
-  color: white;
+    url('charusat\ logo.png') center center / cover no-repeat fixed;
 }
+
 
 header nav ul {
   list-style: none;
@@ -71,6 +71,7 @@ header nav ul li a:hover {
   text-align: center;
   margin-bottom: 10px;
 }
+ 
 
 .announcements ul {
   list-style: none;
